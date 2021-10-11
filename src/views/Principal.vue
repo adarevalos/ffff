@@ -13,7 +13,7 @@
             <!-- inicio sección de servicios -->
             <div id="servicios" class="services-section">
                 <article class="services-info">
-                    <img class="services-info__imagen" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/1024px-Scissors_icon_black.svg.png" alt="">
+                    <img class="services-info__imagen" src="https://www.shareicon.net/data/512x512/2016/01/29/710820_brush_512x512.png" alt="">
                     <h2 class="services-info__title">CÁTALOGO DE PRODUCTOS</h2>
                     <router-link to="/productos">VER MÁS</router-link>
                     <p class="services-info__text">
@@ -22,7 +22,7 @@
                     </p>
                 </article>
                 <article class="services-info">
-                    <img class="services-info__imagen" src="public\img\icon-12.png" alt="">
+                    <img class="services-info__imagen" src="https://i.pinimg.com/originals/54/3a/67/543a67589e055c3a24c5048465ae107d.png" alt="">
                     <h2 class="services-info__title">ADMINISTRAR PRODUCTOS</h2>
                     <router-link to="/crearproducto">VER MÁS</router-link>
                     <p class="services-info__text">
@@ -31,7 +31,7 @@
                     </p>
                 </article>
                 <article class="services-info">
-                    <img class="services-info__imagen" src="public\img\icon-13.png" alt="">
+                    <img class="services-info__imagen" src="https://image.flaticon.com/icons/png/512/90/90470.png" alt="">
                     <h2 class="services-info__title">ADMINISTRAR EMPLEADOS</h2>
                     <router-link to="/crearempleado">VER MÁS</router-link>
                     <p class="services-info__text">
@@ -52,7 +52,7 @@
             <div id="noticias" class="seccion-noticias">
                 <article class="news-info">
                     <div class="news-header">
-                        <img class="news-info__imagen" src="public\img\about2.jpg" alt="" width="50%">
+                        <img class="news-info__imagen" src="https://cdn2.actitudfem.com/media/files/media/files/cortes-de-cabello-corto-para-mujeres-de-40-anos-6.jpg" alt="" width="50%">
                         <h2 class="news-info__title">Creando Nuevos Estilos</h2>
                     </div>
                     <p class="news-info__text">
@@ -63,7 +63,7 @@
 
                 <article class="news-info">
                     <div class="news-header">
-                        <img class="news-info__imagen" src="public\img\about1.jpg" alt="" width="50%">
+                        <img class="news-info__imagen" src="https://images.ecestaticos.com/v6piMNNb0thl9nUhOqW42L4nCfs=/0x0:0x0/1200x900/filters:fill(white):format(jpg)/https://f.elconfidencial.com/original/d79/5a8/2da/d795a82dadafa7ae9e9f897e8c0c462f.jpg" alt="" width="67%">
                         <h2 class="news-info__title">Tratamiento en Barba</h2>
                     </div>
                     <p class="news-info__text">
@@ -74,7 +74,7 @@
 
                 <article class="news-info">
                     <div class="news-header">
-                        <img class="news-info__imagen" src="public\img\about3.jpg" alt="" width="50%">
+                        <img class="news-info__imagen" src="https://media.gettyimages.com/photos/hairdressers-cutting-hair-of-clients-in-salon-picture-id1030251504?s=612x612" alt="" width="50%">
                         <h2 class="news-info__title">Redefiniendo Horizontes</h2>
                     </div>
                     <p class="news-info__text">
@@ -85,7 +85,7 @@
 
                 <article class="news-info">
                     <div class="news-header">
-                        <img class="news-info__imagen" src="public\img\blog-2.jpg" alt="" width="50%">
+                        <img class="news-info__imagen" src="http://bellezatotal.com.gt/wp-content/uploads/2017/07/cabello-1160x675.png" alt="" width="58%">
                         <h2 class="news-info__title">Nuevas Alianzas</h2>
                     </div>
                     <p class="news-info__text">
@@ -106,7 +106,7 @@
             <section id="team" class="seccion-equipo">
 
                 <article class="team-info" >
-                    <img class="team-info__imagen" src="public\img\team-2.jpg" alt="" width="40%">
+                    <img class="team-info__imagen" src="https://thumbs.dreamstime.com/b/hombre-con-el-emblema-del-vector-de-la-barber%C3%ADa-del-inconformista-de-la-barba-79352512.jpg" alt="" width="40%">
                     <h2 class="team-info__title">David Arévalo</h2>
                     <p class="team-info__text">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora quas voluptate magni repellat eligendi! Inventore voluptas
@@ -114,7 +114,7 @@
                     </p>
                 </article>
                 <article class="team-info" >
-                    <img class="team-info__imagen" src="public\img\team-2.jpg" alt="" width="40%">
+                    <img class="team-info__imagen" src="https://thumbs.dreamstime.com/b/hombre-con-el-emblema-del-vector-de-la-barber%C3%ADa-del-inconformista-de-la-barba-79352493.jpg" alt="" width="40%">
                     <h2 class="team-info__title">Docente: Joshua Triana</h2>
                     <p class="team-info__text">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora quas voluptate magni repellat eligendi! Inventore voluptas
@@ -122,7 +122,7 @@
                     </p>
                 </article>
                 <article class="team-info" >
-                    <img class="team-info__imagen" src="public\img\team-2.jpg" alt="" width="40%">
+                    <img class="team-info__imagen" src="https://thumbs.dreamstime.com/z/corte-de-pelo-del-peinado-de-la-moda-de-los-hombres-con-la-barba-89436464.jpg" alt="" width="40%">
                     <h2 class="team-info__title">Tutor: Carlos Montes</h2>
                     <p class="team-info__text">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora quas voluptate magni repellat eligendi! Inventore voluptas

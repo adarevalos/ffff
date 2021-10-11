@@ -4,7 +4,7 @@
 <div v-bind:id="idCarousel" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-        <img src="public\img\people.png" alt="banner image">
+        <img src="https://placeimg.com/2000/400/people" alt="banner image">
             <div class="carousel-caption d-none d-md-block">
                 <h1 style="color:rgb(19, 110, 122)">HAIRSTYLE ACCESS</h1>
                 <h2 style="color:rgb(19, 110, 122)">¡Encuentra tu propio estilo!</h2>

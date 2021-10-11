@@ -4,7 +4,7 @@
   
     <div class="navbar1">
       <router-link class="icono_navbar" to="/" style="margin-right:50%">
-        <img src="public\img\logo3.png" width="35" height="35" class="d-inline-block align-top " alt=" " loading="lazy " style="margin-right:30"> 
+        <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/hair-treatment-1639952-1391777.png" width="35" height="35" class="d-inline-block align-top " alt=" " loading="lazy " style="margin-right:30"> 
         HAIRSTYLE ACCESS
       </router-link>
     
